@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/detailName"
         android:layout_marginTop="14dp"
-        android:text="Event Name"
+        android:text="Event name"
         android:textSize="24sp"
         android:textColor="@color/lavender"
         android:textStyle="bold"
@@ -42,7 +42,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Duration:"
+        android:text="@string/duration"
         android:textColor="@color/lavender"
         android:textStyle="bold"
         android:layout_marginStart="10dp"
@@ -52,7 +52,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="time"
+        android:text="@string/time"
         android:layout_marginStart="10dp"
         android:textSize="16sp"
         android:id="@+id/detailTime"/>
@@ -60,7 +60,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Location:"
+        android:text="@string/location"
         android:textColor="@color/lavender"
         android:textStyle="bold"
         android:layout_marginStart="10dp"
@@ -78,7 +78,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Description:"
+        android:text="@string/description"
         android:textColor="@color/lavender"
         android:textStyle="bold"
         android:layout_marginStart="10dp"

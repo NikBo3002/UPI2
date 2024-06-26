@@ -47,5 +47,9 @@
     <string name="e7Desc">
         Test your skills at our Beer Pong Tournament. Whether you are a pro or newcomer,
         \nenjoy an evening of excitement, laughter, and friendly competition.</string>
+    <string name="duration">Duration:</string>
+    <string name="time">time</string>
+    <string name="location">Location:</string>
+    <string name="description">Description:</string>
 
 </resources>
