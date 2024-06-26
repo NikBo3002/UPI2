@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+
+    <string name="e1location">Crkva</string>
+    <string name="e1Desc">
+        Join us for a night of laughter, music, and dancing! Show off your moves,
+        \nenjoy delicious bites, or just chat with friends. There is something for everyone.
+    </string>
+
+
+    <string name="e2location">Ucka</string>
+
+    <string name="e2Desc">
+        Escape the hustle of everyday life with a serene camping trip.
+        \nEnjoy a weekend of tranquility, fun, lush greenery, and calming forest sounds.
+    </string>
+
+
+
+    <string name="e3location">Trsat</string>
+    <string name="e3Desc">
+        Gear up for a day of excitement and friendly competition at Sports Day!
+        \nShowcase your athletic prowess or just have fun participating. Perfect for everyone.
+    </string>
+
+
+    <string name="e4location">Zadar</string>
+    <string name="e4Desc">
+        Explore Zadar is rich history, stunning architecture, and breathtaking sunsets.
+        \nEnjoy serene ocean sounds and discover cultural heritage.</string>
+
+
+    <string name="e5location">Istra</string>
+    <string name="e5Desc">
+        Istria, the "Tuscany of Croatia," invites you with rolling hills, vineyards,
+        \nolive groves, and Adriatic waters. Experience cultural landmarks and gourmet delights.</string>
+
+
+    <string name="e6location">Rijeka</string>
+    <string name="e6Desc">
+        Join us for a day of vibrant parades, lively music, and dazzling performances.
+        \nOur streets become a festive wonderland for an unforgettable celebration.</string>
+
+
+    <string name="e7location">Rijeka</string>
+    <string name="e7Desc">
+        Test your skills at our Beer Pong Tournament. Whether you are a pro or newcomer,
+        \nenjoy an evening of excitement, laughter, and friendly competition.</string>
+
+</resources>
